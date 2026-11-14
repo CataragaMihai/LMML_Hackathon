@@ -22,4 +22,4 @@ for ax, (name, cols) in zip(axes, models.items()):
 
 plt.tight_layout()
 plt.savefig("residuals.png", dpi=100)
-print("Deepest layer reads as PREDICTION -> flag is SIGMOID_PREDICTION")
+print("Deepest layer reads is actually SUPERVISON -> flag is SIGMOID_PREDICTION")
