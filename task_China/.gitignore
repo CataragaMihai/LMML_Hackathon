@@ -1,0 +1,9 @@
+# organisers' data and rebuildable training files
+train/
+crates/
+yolo_data/
+yolo11s.pt
+runs/glyphs/weights/last.pt
+runs/glyphs/train_batch*
+__pycache__/
+.DS_Store
